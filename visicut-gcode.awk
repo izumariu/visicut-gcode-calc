@@ -1,5 +1,11 @@
 #!/usr/bin/awk -f
 
+#####################################
+# WARNING: THIS IS EXPERIMENTAL     #
+# AND DOES NOT SEEM TO WORK YET     #
+# ANYWAYS                           #
+#####################################
+
 #############
 # FUNCTIONS #
 #############
